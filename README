@@ -1,0 +1,19 @@
+Sammie Walker
+2315055
+swalker@chapman.edu
+
+
+CPSC 350 - 03
+Assignment 6
+
+
+Source Files:
+    1. main.cpp
+    2. Sorting.cpp
+    3. Sorting.h
+    4. numbers.txt
+
+
+References:
+- https://www.geeksforgeeks.org/clock-function-in-c-c/
+- http://www.cplusplus.com/reference/ctime/CLOCKS_PER_SEC/
